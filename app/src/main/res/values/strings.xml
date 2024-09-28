@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">mobile_development_lab_05</string>
+    <string name="discount_hint">Скидка</string>
+    <string name="calculate_hint">Расчитать</string>
+    <string name="time_hint">Время</string>
+    <string name="rate_hint">Ставка</string>
+    <string name="rent_hint">Аренда транспорта</string>
+    <string name="payment_hint">К оплате</string>
+    <string name="cancel_hint">Отменить</string>
+    <string name="pay_hint">Оплатить</string>
+    <string name="ruble_hint">₽</string>
+    <string name="payment_success">Оплата была успешно выполнена</string>
+    <string name="payment_fail">Ошибка оплаты</string>
+    <string name="not_all_parameters_are_given">Укажите параметры</string>
 </resources>

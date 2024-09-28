@@ -7,6 +7,10 @@ android {
     namespace = "com.example.mobile_development_lab_05"
     compileSdk = 34
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.example.mobile_development_lab_05"
         minSdk = 24
@@ -35,8 +39,9 @@ android {
     }
 }
 
-dependencies {
 
+
+dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
